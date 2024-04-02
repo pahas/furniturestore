@@ -1,0 +1,13 @@
+.basket {
+  position: absolute;
+  top: -6px;
+  right: -6px;
+  background-color: #808080;
+  color: #ffffff;
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
